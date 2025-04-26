@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>	
+<jnlp spec="1.0+" codebase="http://localhost:9001/forms/java/">
+<information>
+<title>Demo</title>
+<vendor>DemoCompany/vendor>
+<description>Demo Forms Application</description>
+</information>
+<security>
+<all-permissions />
+</security>
+<resources>
+   <j2se version="1.4+" />
+   <jar href="frmall.jar" main="true" />
+   <extension name="Extensions" href="/forms/java/extensions.jnlp" />
+</resources>
+<applet-desc main-class="oracle.forms.engine.Main" name="Forms" width="1024" height="768">
+<param name="serverURL" value="/forms/lservlet?ifcfs=http://localhost:9001/forms/frmservlet?config=demo&#38;splashscreen=no&#38;ifsessid=&#38;acceptLanguage=nl-NL" />
+<param name="separateFrame" value="false" />
+<param name="lookAndFeel" value="oracle" />
+<param name="splashScreen" value="" />
+<param name="colorScheme" value="swan" />
+<!--param name="customColorScheme" value="sample" /-->
+<param name="serverApp" value="default" />
+<param name="logo" value="false" />
+
+<param name="height" value="90%"/>
+<param name="width" value="95%"/>
+
+<param name="clientDPI" value="120" />
+<param name="webstartRequest" value="true"/>
+
+</applet-desc>
+</jnlp>
