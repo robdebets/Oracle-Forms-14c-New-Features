@@ -8,6 +8,11 @@ In a final chapter I'll describe some settings relevant to get this demo started
 
 test:
 ![](test.mp4)
+<figure class="video_container">
+  <iframe src="test.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
+
 test2:
 ![](test2.gif)
 
