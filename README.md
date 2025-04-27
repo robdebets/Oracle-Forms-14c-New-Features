@@ -9,11 +9,13 @@ In a final chapter I'll describe some settings relevant to get this demo started
 test:
 ![](test.mp4)
 test1a
+.. raw:: html
 <figure class="video_container">
   <iframe src="test.mp4" frameborder="0" allowfullscreen="true"> 
 </iframe>
 </figure>
 test 1b:
+.. raw:: html
  <video src="https://github.com/robdebets/Oracle-Froms-14c-New-Features/blob/main/test.mp4"></video>
 
 test2:
