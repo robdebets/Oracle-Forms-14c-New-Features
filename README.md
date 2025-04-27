@@ -6,4 +6,7 @@ Why not share this with the rest of the community? I asked Michael whether he ha
 A lot of these features are described in https://www.oracle.com/a/otn/docs/oracleforms-1412-newfeatures.pdf. In this readme I will show screenshots of the demo-form, with a textual reference to described features (since it won't be easy for everybody to get a forms-environment up and running).
 In a final chapter I'll describe some settings relevant to get this demo started.
 
+test:
 ![](test.mp4)
+test2:
+![](test2.gif)
