@@ -8,10 +8,13 @@ In a final chapter I'll describe some settings relevant to get this demo started
 
 test:
 ![](test.mp4)
+test1a
 <figure class="video_container">
   <iframe src="test.mp4" frameborder="0" allowfullscreen="true"> 
 </iframe>
 </figure>
+test 1b:
+ <video src="test.mp4"></video>
 
 test2:
 ![](test2.gif)
