@@ -10,3 +10,6 @@ test:
 ![](test.mp4)
 test2:
 ![](test2.gif)
+
+test3:
+![](test3.gif)
