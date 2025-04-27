@@ -16,7 +16,7 @@ test1a
 </figure>
 test 1b:
 .. raw:: html
- <video src="https://github.com/robdebets/Oracle-Froms-14c-New-Features/blob/main/test.mp4"></video>
+ <video src="https://github.com/robdebets/Oracle-Froms-14c-New-Features/blob/main/test.mp4"  width="352" height="720"></video>
 
 test2:
 ![](test2.gif)
