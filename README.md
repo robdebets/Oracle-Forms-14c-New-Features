@@ -6,8 +6,7 @@ Why not share this with the rest of the community? I asked Michael whether he ha
 A lot of these features are described in https://www.oracle.com/a/otn/docs/oracleforms-1412-newfeatures.pdf. In this readme I will show screenshots of the demo-form, with a textual reference to described features (since it won't be easy for everybody to get a forms-environment up and running).
 In a final chapter I'll describe some settings relevant to get this demo started.
 
-
-# Push Buttons
+## Push Buttons
 ![](resources/14c-pushbuttons.gif)
 Runtime Features > User Interface > Push Buttons
 
@@ -16,45 +15,49 @@ Runtime Features > User Interface > Push Buttons
 Runtime Features > User Interface > Text Items
 Runtime Features > User Interface > List Items
 
-Booleans
+## Booleans
 ![](resources/14c-booleans.gif)
 Runtime Features > User Interface > Boolean Items
 
-Display
+## Display
 ![](resources/14c-display.gif)
 Runtime Features > User Interface > Display Items
 
-Employees
+## Employees
 ![](resources/14c-emp.gif)
 Runtime Features > User Interface > Multi Record Blocks
 Runtime Features > Data Access, Monitoring and Manipulation > Continuous Query Notification
 
-Bars
+## Bars
 ![](resources/14c-bars.gif)
 Runtime Features > User Interface > Multi Record Blocks > Dynamic Size Block
 
-Tiles
+## Tiles
 ![](resources/14c-tiles.gif)
 Runtime Features > User Interface > Multi Record Blocks > Tiles
 
-REST-services
+## REST-services
 ![](resources/14c-rest.gif)
 Runtime Features > Data Access, Monitoring and Manipulation > REST
 
-Glass
+## Glass
 ![](resources/14c-glass.gif)
 Runtime Features > User Interface > Fill Pattern Property
 
-Misc
+## Misc
 ![](resources/14c-misc.gif)
 Runtime Features > User Interface > Window > Canvas Window Scrollbars
 Runtime Features > Miscellaneous Runtime Features > Image Copy
 Runtime Features > User Interface > Canvasses > Stacked Canvas Splitter
 Runtime Features > User Interface > Alerts
 
-
-Colors:
+## Colors
 ![](resources/14c-colors.png)
-Just a tab to test the predefined colors
+Just a tab to test some predefined colors
 
+# Installation
+As database, I used Oracle 23ai with Virtual Box. Schema HR.
+Installed Weblogic and Forms and Reports 14c
+To run the demo, see demo.jnlp
 
+More details after my holidays!
