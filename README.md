@@ -8,7 +8,7 @@ In a final chapter I'll describe some settings relevant to get this demo started
 
 
 Push buttons:
-![](14c-pushbuttons.gif)
+![](resources/14c-pushbuttons.gif)
 
 ![](14c-edit-list.gif)
 
