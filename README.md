@@ -7,35 +7,54 @@ A lot of these features are described in https://www.oracle.com/a/otn/docs/oracl
 In a final chapter I'll describe some settings relevant to get this demo started.
 
 
-Push buttons:
+# Push Buttons
 ![](resources/14c-pushbuttons.gif)
+Runtime Features > User Interface > Push Buttons
 
-Edit/List
+## Edit/List
 ![](resources/14c-edit-list.gif)
+Runtime Features > User Interface > Text Items
+Runtime Features > User Interface > List Items
 
 Booleans
 ![](resources/14c-booleans.gif)
+Runtime Features > User Interface > Boolean Items
 
 Display
 ![](resources/14c-display.gif)
+Runtime Features > User Interface > Display Items
 
 Employees
 ![](resources/14c-emp.gif)
+Runtime Features > User Interface > Multi Record Blocks
+Runtime Features > Data Access, Monitoring and Manipulation > Continuous Query Notification
 
 Bars
 ![](resources/14c-bars.gif)
+Runtime Features > User Interface > Multi Record Blocks > Dynamic Size Block
 
 Tiles
 ![](resources/14c-tiles.gif)
+Runtime Features > User Interface > Multi Record Blocks > Tiles
 
 REST-services
 ![](resources/14c-rest.gif)
+Runtime Features > Data Access, Monitoring and Manipulation > REST
 
 Glass
 ![](resources/14c-glass.gif)
+Runtime Features > User Interface > Fill Pattern Property
 
 Misc
 ![](resources/14c-misc.gif)
+Runtime Features > User Interface > Window > Canvas Window Scrollbars
+Runtime Features > Miscellaneous Runtime Features > Image Copy
+Runtime Features > User Interface > Canvasses > Stacked Canvas Splitter
+Runtime Features > User Interface > Alerts
+
 
 Colors:
 ![](resources/14c-colors.png)
+Just a tab to test the predefined colors
+
+
