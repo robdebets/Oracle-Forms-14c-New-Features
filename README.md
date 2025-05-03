@@ -4,7 +4,7 @@ On 20 Decenber 2024 Michael Ferrante announced Oracle Forms and Reports 14c (14.
 Why not share this with the rest of the community? I asked Michael whether he had problems when I published a demo-form that showed a lot of new features, in more or less the same way as he did. No problems, thanks Michael! So here it is!
 
 A lot of these features are described in https://www.oracle.com/a/otn/docs/oracleforms-1412-newfeatures.pdf. In this readme I will show screenshots of the demo-form, with a textual reference to described features (since it won't be easy for everybody to get a forms-environment up and running).
-In a final chapter I'll describe some settings relevant to get this demo started.
+In a final chapter I'll describe some relevant settings to get this demo started.
 
 ## Push Buttons
 ![](resources/14c-pushbuttons.gif)
