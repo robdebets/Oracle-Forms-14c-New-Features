@@ -12,7 +12,7 @@ Runtime Features > User Interface > Push Buttons
 
 ## Edit/List
 ![](resources/14c-edit-list.gif)
-Runtime Features > User Interface > Text Items
+Runtime Features > User Interface > Text Items<br/>
 Runtime Features > User Interface > List Items
 
 ## Booleans
@@ -25,7 +25,7 @@ Runtime Features > User Interface > Display Items
 
 ## Employees
 ![](resources/14c-emp.gif)
-Runtime Features > User Interface > Multi Record Blocks
+Runtime Features > User Interface > Multi Record Blocks<br/>
 Runtime Features > Data Access, Monitoring and Manipulation > Continuous Query Notification
 
 ## Bars
@@ -46,9 +46,9 @@ Runtime Features > User Interface > Fill Pattern Property
 
 ## Misc
 ![](resources/14c-misc.gif)
-Runtime Features > User Interface > Window > Canvas Window Scrollbars
-Runtime Features > Miscellaneous Runtime Features > Image Copy
-Runtime Features > User Interface > Canvasses > Stacked Canvas Splitter
+Runtime Features > User Interface > Window > Canvas Window Scrollbars<br/>
+Runtime Features > Miscellaneous Runtime Features > Image Copy<br/>
+Runtime Features > User Interface > Canvasses > Stacked Canvas Splitter<br/>
 Runtime Features > User Interface > Alerts
 
 ## Colors
@@ -56,8 +56,8 @@ Runtime Features > User Interface > Alerts
 Just a tab to test some predefined colors
 
 # Installation
-As database, I used Oracle 23ai with Virtual Box. Schema HR.
-Installed Weblogic and Forms and Reports 14c
-To run the demo, see demo.jnlp
+As database, I used Oracle 23ai with Virtual Box. Schema HR.<br/>
+Installed Weblogic and Forms and Reports 14c<br/>
+To run the demo, see demo.jnlp<br/><br/>
 
 More details after my holidays!
