@@ -10,23 +10,32 @@ In a final chapter I'll describe some settings relevant to get this demo started
 Push buttons:
 ![](resources/14c-pushbuttons.gif)
 
-![](14c-edit-list.gif)
+Edit/List
+![](resources/14c-edit-list.gif)
 
-![](14c-booleans.gif)
+Booleans
+![](resources/14c-booleans.gif)
 
-![](14c-display.gif)
+Display
+![](resources/14c-display.gif)
 
-![](14c-emp.gif)
+Employees
+![](resources/14c-emp.gif)
 
-![](14c-bars.gif)
+Bars
+![](resources/14c-bars.gif)
 
-![](14c-tiles.gif)
+Tiles
+![](resources/14c-tiles.gif)
 
-![](14c-rest.gif)
+REST-services
+![](resources/14c-rest.gif)
 
-![](14c-glass.gif)
+Glass
+![](resources/14c-glass.gif)
 
-![](14c-misc.gif)
+Misc
+![](resources/14c-misc.gif)
 
 Colors:
-![](14c-colors.png)
+![](resources/14c-colors.png)
