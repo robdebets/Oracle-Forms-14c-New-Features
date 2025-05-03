@@ -22,8 +22,8 @@ test 1b:
 https://github.com/user-attachments/assets/e2f1c181-e127-4a0b-a6eb-8377d6722002
 
 
-test2:
-![](test2.gif)
+Push buttons:
+![](14c-pushbuttons.gif)
 
 test3:
 ![](test3.gif)
