@@ -63,7 +63,7 @@ Installed Weblogic and Forms and Reports 14c<br/>
 Compiled demofeat.fmb
 To run the demo, see demo.jnlp<br/><br/>
 
-To get CQN working: login as SYS:<br/>
+To get CQN working: login as SYS in SQL Developer:<br/>
 1. grant execute on dbms_cq_notification to hr;<br/>
 2. grant change notification to hr;<br/>
 
