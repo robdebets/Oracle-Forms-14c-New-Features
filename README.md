@@ -65,12 +65,12 @@ To run the demo, see demo.jnlp<br/><br/>
 
 To get CQN working: login as SYS:<br/>
 1. grant execute on dbms_cq_notification to hr;<br/>
-2. grant change notification to hr;<br/>
+2. grant change notification to hr;</p>
 To see it in action:<br/>
 1. Start a first session, go to tab Employees, execute Query<br/>
 2. Start a second session, go to tab Employees, execute Query<br/>
 3. Make a change, eg name James > Jameson + Save<br/>
 4. Go to the first session, do navigation (eg move to another record) and then "Data set has changed. Requery recommended" will appear.<br/>
-(perhaps you get an error for constraint HR.JHIST_EMP_ID_ST_DATE_PK: delete it or truncate table job_history... stupid PK anyway)<br/>
+(perhaps you get an error for constraint HR.JHIST_EMP_ID_ST_DATE_PK: delete it or truncate table job_history... stupid PK anyway)</p>
 
 For the custom fonts (tab Misc) to work: change default.fontMap.defaultMapping in registry.dat from full to partial
