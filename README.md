@@ -60,6 +60,17 @@ Just a tab to test some predefined colors
 # Installation
 As database, I used Oracle 23ai with Virtual Box. Schema HR.<br/>
 Installed Weblogic and Forms and Reports 14c<br/>
+Compiled demofeat.fmb
 To run the demo, see demo.jnlp<br/><br/>
 
-More details after my holidays!
+To get CQN working: login as SYS:<br/>
+1. grant execute on dbms_cq_notification to hr;<br/>
+2. grant change notification to hr;<br/>
+To see it in action:
+1. Start a first session, go to tab Employees, execute Query
+2. Start a second session, go to tab Employees, execute Query
+3. Make a change, eg name James > Jameson + Save
+4. Go to the first session, do navigation (eg move to another record) and then "Data set has changed. Requery recommended" will appear.
+(perhaps you get an error for constraint HR.JHIST_EMP_ID_ST_DATE_PK: delete it or truncate table job_history... stupid PK anyway)
+
+For the custom fonts (tab Misc) to work: change default.fontMap.defaultMapping in registry.dat from full to partial
