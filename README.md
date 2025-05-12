@@ -65,7 +65,8 @@ To run the demo, see demo.jnlp<br/><br/>
 
 To get CQN working: login as SYS:<br/>
 1. grant execute on dbms_cq_notification to hr;<br/>
-2. grant change notification to hr;<br/><br/>
+2. grant change notification to hr;<br/>
+<br/>
 To see it in action:<br/>
 1. Start a first session, go to tab Employees, execute Query<br/>
 2. Start a second session, go to tab Employees, execute Query<br/>
