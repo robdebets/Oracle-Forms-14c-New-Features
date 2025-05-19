@@ -1,4 +1,4 @@
-# Oracle Froms 14c New Features
+# Oracle Forms 14c New Features
  
 On 20 Decenber 2024 Michael Ferrante announced Oracle Forms and Reports 14c (14.1.2.0). For this release I "waited" for a long time, and was very eager to explore all the new features I saw in a demo at the DOAG 2024. Unfortunately, Oracle does not share any demo-code, so I had to do this for myself.<br/>
 Why not share this with the rest of the community? I asked Michael whether he had problems when I published a demo-form that showed a lot of new features, in more or less the same way as he did. No problems, thanks Michael! So here it is!
